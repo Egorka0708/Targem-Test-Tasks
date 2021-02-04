@@ -1,0 +1,39 @@
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\Олег\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\Олег\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Олег\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Олег\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Олег\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Олег\Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Олег\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Олег\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Олег\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Олег\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Олег\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\Олег\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Олег\Рабочий стол\Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache

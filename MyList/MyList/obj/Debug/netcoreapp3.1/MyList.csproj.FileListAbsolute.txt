@@ -1,0 +1,26 @@
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfoInputs.cache
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfo.cs
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.exe
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.deps.json
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.json
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.dev.json
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.dll
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.dll
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.genruntimeconfig.cache
+C:\Users\Олег\Рабочий стол\MyList\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csprojAssemblyReference.cache
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.exe
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.deps.json
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.json
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.dev.json
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.dll
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csprojAssemblyReference.cache
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfoInputs.cache
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfo.cs
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.dll
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\Олег\Рабочий стол\Тестовые задания Targem Games\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.genruntimeconfig.cache
